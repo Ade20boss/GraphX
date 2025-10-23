@@ -53,7 +53,7 @@ Then follow the on-screen prompts to:
 
 ---
 
-##🧩 How It Works
+🧩 How It Works
 
 - Uses Python’s built-in eval() in a restricted environment allowing only x and the math module.
 
@@ -69,7 +69,7 @@ Then follow the on-screen prompts to:
 
 ---
 
-##📜 License
+📜 License
 
 MIT License — use, modify, and share freely.
 
