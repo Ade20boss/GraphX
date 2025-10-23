@@ -51,6 +51,8 @@ Then follow the on-screen prompts to:
 
 3. Define tick scales for x and y axes.
 
+---
+
 ##🧩 How It Works
 
 - Uses Python’s built-in eval() in a restricted environment allowing only x and the math module.
@@ -64,6 +66,8 @@ Then follow the on-screen prompts to:
 - Blue dashed line → Y-axis
 
 - Green solid line → function graph
+
+---
 
 ##📜 License
 
